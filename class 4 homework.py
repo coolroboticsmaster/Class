@@ -1,8 +1,4 @@
-import datetime
-tday=datetime.date.today()
-wday=datetime.date(2014,6,14)
-t_day=tday-wday
-print(t_day/365)
+
 
 
 #import datetime
