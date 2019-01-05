@@ -1,6 +1,6 @@
-# def f():
-#     return "hi"
-# print(f())
+def f():
+    return "hi"
+print(f())
 def r():
     a = 5
     b = 6 
